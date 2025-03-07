@@ -13,6 +13,6 @@
     <p style="color: black; font-size: 16px; font-weight: bold;">Connect with me!</p>
     <a href="https://www.linkedin.com/in/omotayo-olaniyi-4ab5a5236" target="_blank" style="display: inline-block; background-color: purple; color: white; text-decoration: none; padding: 10px 20px; border-radius: 5px; margin: 5px;">LinkedIn</a>
     <a href="mailto:example@olaniyimotayo@gmail.com"> Email</a>
-   https://github.com/Homotayour
+   <a href="https://github.com/Homotayour
   <a href="" target="_blank" style="display: inline-block; background-color: green; color: white; text-decoration: none; padding: 10px 20px; border-radius: 5px; margin: 5px;">Web Portfolio</a>
     </div>
